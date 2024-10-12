@@ -65,6 +65,3 @@ The `double_threshold()` function classifies pixels as strong, weak, or non-rele
 
 The final edge detection is performed in `edge_tracking()`. It preserves weak edges that are connected to strong edges, removing isolated weak edges.
 
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use the code as per your requirements.
